@@ -24,14 +24,27 @@
 </head>
 
 <body>
-
+	<h1 class="apresentacao">
+		<img alt="logo"
+			src="https://image.flaticon.com/icons/svg/43/43655.svg" height="50"
+			width="50">SALA VIRTUAL
+	</h1>
 	<div id="header" class="header">
 
 		<div id="logo" class="header"></div>
 
 		<div id="titulo_pagina" class="leftColumn">
 			<p>
-			<h2 align="center">Teste</h2>
+			<h2 align="center">
+				<%
+					int op = Integer.parseInt(request.getParameter("op"));
+					if (op == 1) {
+						out.print("<p></p><h2 align=\"center\">Lista de Alunos de POOII</h2>");
+					} else {
+						out.print("<p></p><h2 align=\"center\">Lista de Alunos de POOIII</h2>");
+					}
+				%>
+			</h2>
 
 		</div>
 
@@ -44,8 +57,7 @@
 		<%
 			List<Aluno> alunos = new ArrayList<Aluno>(controleAluno.retornaAluno());
 
-			out.print("<p></p><h2 align=\"center\">Lista de Alunos de POOII</h2>"
-					+ "<table border=\"2\" align=\"center\">"
+			out.print("<table border=\"2\" align=\"center\">"
 					+ "<tr><th>Matricula</th> <th>Nome</th> <th>Turno</th></tr>");
 			for (Aluno a : alunos) {
 				out.print("<tr>");
@@ -57,16 +69,12 @@
 			}
 			out.print("</table>");
 
+			out.print("<form action=\"Diciplina.jsp?op=7 \" method=\"post\">"
+					+ "<input type=\"submit\" Value=\" Adcionar alunos \">" + "</form>");
 		%>
 
 
-		<div class="button">
 
-			<input type="submit" value="LISTA ALUNOS"
-				onclick="location.href = 'alunos.jsp'" /> <input type="submit"
-				value="MATERIAL" onclick="location.href = 'material.jsp'" />
-
-		</div>
 
 	</div>
 

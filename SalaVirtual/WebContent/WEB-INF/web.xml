@@ -3,7 +3,7 @@
   <display-name>SalaVirtual</display-name>
   <servlet>
   <servlet-name>CadastraAluno</servlet-name>
-  <servlet-class>CadastraAluno</servlet-class>
+  <servlet-class>controle.CadastraAluno</servlet-class>
   </servlet>
   <servlet-mapping>
   <servlet-name>CadastraAluno</servlet-name>
