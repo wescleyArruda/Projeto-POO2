@@ -1,0 +1,21 @@
+<p><h2 align="center"> Programação Orientada a Objetos III</h2></p>
+	<div class="leftColumn">
+		<h2>Emenda</h2>
+		Nessa disciplina, o aluno irá aprimorar a capacidade de construir programas utilizando o paradigma orientado a objetos. Ao final do curso o aluno estará apto a desenvolver sistemas para Web, baseadas na tecnologia Java, para pequenas, médias e grandes empresas.
+	</div>
+	<div class="leftColumn">
+		<h2>Objetivos</h2>
+		1. Aprimorar os conhecimentos e técnicas no desenvolvimento de software baseado na orientação a objetos
+		2. Criar e manter bancos de dados através da tecnologia JDBC.
+		3. Solucionar problemas de codificação utilizando a Programação Orientada a Objetos, aplicando técnicas de reutilização de software.
+		4. Projetar sistemas orientados a objetos, aplicando padrões de projeto notoriamente conhecidos e catalogados.
+		5. Desenvolver sistemas de software aplicando os princípios de "Código Limpo" (Clean Code) na programação.
+	</div>
+	<div class="leftColumn">
+		<h2>Conteúdos</h2>
+		1. Tratamento de Exceções: Como lidar e apresentar os erros e exceções durante a execução de uma aplicação Java. Hierarquia de exceções. Classe Exception. Como criar suas próprias exceções.
+		2. Multithreading: Classes Thread e Runnable. Como sincronizar diferentes linhas de execução. Aplicação prática
+		3. Banco de Dados: gerenciando informações a partir de classes Java. Utilizando o JDBC. Criando conexões, realizando consultas e gerenciando tabelas.
+		4. Padrões de Projeto: conceitos, finalidade e categorias.
+		5. Padrões de criação: Singleton, estruturais e comportamentais. 			
+	</div>

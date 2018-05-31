@@ -1,0 +1,24 @@
+<Ementa POOII>
+Nessa disciplina, o aluno irá aprimorar a capacidade de construir programas utilizando o paradigma orientado a objetos. Ao final do curso o aluno estará apto a desenvolver sistemas para Web, baseadas na tecnologia Java, para pequenas, médias e grandes empresas.
+</Emenda POOII>
+
+<Objetivos POOII>
+1 - Criar programas para pequenas, médias e grandes empresas, usando os conceitos do paradigma orientado a objetos.
+2 - Planejar a arquitetura do sistema baseado nas boas práticas das metodologias de desenvolvimento, de forma a realizar estimativas de prazo e custo para o produto em desenvolvimento.
+3 - Modelar a arquitetura de sistemas utilizando a linguagem de modelagem UML (Unified Modeling Language).
+4 - Desenvolver aplicações web para atender as demandas de pequenas, médias e grandes empresas., usando a linguagem JAVA e seus frameworks.
+5 - Analisar técnicas de desenvolvimento de softwares, visando identificar qual a mais adequada de acordo com o cenário	</div>
+</Objetivos POOII>
+
+<Conteúdos POOII>
+1- Revisão de conceitos sobre o paradigma orientado a objetos. Classes, Métodos e Objetos. Herança. Polimorfismo: Interfaces e Classes abstratas;
+2- Arquitetura Web. Arquiteturas de aplicações Web. Modelo cliente-servidor. Modelo Peer-to-peer. Modelo cliente-servidor utilizado pelo protocolo HTTP. Conceitos de Web services. Tecnologias para o desenvolvimento Web.
+3- Introdução a linguagem de Marcação HTML. Tags HTML. Estrutura de uma página HTML. Construção de formulários.
+4- Introdução a Cascading Style Sheets (CSS). Editando estilos de páginas. Formatando páginas.
+5- Apresentação sobre os Servlets. Web Containers. Ciclo de vida dos Servlets. Gerenciamento de contexto em aplicações Web. Funcionamento do mapeamento dos Servlets.
+6- Introdução ao JSP (JavaServer Pages). Benefícios na utilização do JSP. Descrição do funcionamento e uso do JSP. Descrição das diretivas do JSP. Utilização dos conceitos de JavaBeans em páginas JSP. Scriptlet x Expression Language x Taglibs x JSTL.
+7- Introdução à tecnologia JSF (JavaServer Faces). Procedimentos para a configuração e utilização dessa tecnologia. Utilização de classes "Backing Bean". Realizando mapeamento das classes Bean. Gerenciamento da navegação de páginas com JSF.
+8- Introdução aos padrões de projeto. Padrões de projeto DAO (Data Access Object) e MVC (Model-ViewController), apresentando em quais cenários deverão ser utilizados. Desenvolvimento de uma aplicação utilizando os padrões de projeto DAO e MVC.
+9- Apresentação dos conceitos sobre ORM (Object Relational Mapping) e JPA (Java Persistence API). Introdução ao Hibernate. Mapeamento de dados com o Hibernate. Realizando a persistência de dados com o Hibernate em aplicações Java.
+10- Procedimentos para desenvolvimento sobre a plataforma Java. Introdução ao EJB (Enterprise JavaBeans). Session Bean. Message-Driven Bean. Ciclo de vida do EJB: Stateless e Stateful Session Bean. Singleton Session Bean.
+</Conteúdos POOII>			
